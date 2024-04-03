@@ -1,0 +1,17 @@
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    background-color: brown;
+    color:aliceblue;
+}
+
+#result {
+    font-size: 30px;
+    margin-top: 40px;
+}
